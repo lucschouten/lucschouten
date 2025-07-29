@@ -5,7 +5,7 @@ My most complex repositories are private. However, I will list and discuss them 
 ## Featured Private Projects
 
 ### 🎬 AI YouTube Content Pipeline
-An automated content creation system that produces fully-featured YouTube videos for the **TombstoneWhispers** channel.
+An automated content creation system that produces fully-featured YouTube videos for the **TombstoneWhispers** channel (https://www.youtube.com/@TombstoneWhispers).
 - **Full automation**: Generates 10-15 minutie narrative videos without manual intervention
 - **Multi-model AI integration**: Orchestrates different LLMs, TTS engines, and image generation models
 - **Story-driven content**: Creates compelling narratives with synchronized visuals and voice-over
